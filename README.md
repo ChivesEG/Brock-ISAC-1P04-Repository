@@ -4,4 +4,4 @@ Twine Game website for ISAC-1P04 at Brock
 
 ## Playest
 
-Playtest my game [here]()
+Playtest my game [here](https://chiveseg.github.io/Brock-ISAC-1P04-Repository/prototypes/Joystick_Mania.hmtl)
