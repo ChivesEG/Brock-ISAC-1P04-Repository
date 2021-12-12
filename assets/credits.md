@@ -1,4 +1,5 @@
 CREDITS
+-------------------------------------------
 For Picrew Links upon opening the editor click the question mark
 -------------------------------------------
 Sprites
