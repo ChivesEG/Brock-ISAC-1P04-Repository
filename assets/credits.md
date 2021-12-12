@@ -18,3 +18,4 @@ Mist Beast's Sprite: https://picrew.me/share?cd=338H8y1Tnb
 <img src ="https://raw.githubusercontent.com/ChivesEG/Brock-ISAC-1P04-Repository/main/assets/Sprites/Damniel_Neutral.png">
 -------------------------------------------
 Damniel's Sprites: https://picrew.me/share?cd=s7HJIW9WFD
+-------------------------------------------
