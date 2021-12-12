@@ -25,10 +25,25 @@ by djgriffin
 
 Creative Commons (Attribution 3.0)
 December 27th 2012
+
 -------------------------------------------
 "Scary Demon Haunt"
 by Adam Webb
 
-Public Domain
--------------------------------------------
+PUBLIC DOMAIN
 
+-------------------------------------------
+"Orchestral Adventure Theme"
+by TheoTeravainen
+
+Creative Commons (Attribution 3.0)
+April 28th 2021
+
+-------------------------------------------
+"Funky - Upbea Loopt"
+by ispeakwaves
+
+Creative Commons (Attribution 3.0)
+March 20th 2017
+
+-------------------------------------------
