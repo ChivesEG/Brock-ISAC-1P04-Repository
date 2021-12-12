@@ -1,7 +1,6 @@
 CREDITS
-(For Picrew Links upon opening the editor click the question mark)
 -------------------------------------------
-Sprites
+Sprites (For Picrew Links upon opening the editor click the question mark)
 -------------------------------------------
 <img src ="https://raw.githubusercontent.com/ChivesEG/Brock-ISAC-1P04-Repository/main/assets/Sprites/Jay_Neutral.png">
 -------------------------------------------
@@ -19,3 +18,17 @@ Mist Beast's Sprite: https://picrew.me/share?cd=338H8y1Tnb
 -------------------------------------------
 Damniel's Sprites: https://picrew.me/share?cd=s7HJIW9WFD
 -------------------------------------------
+AUDIO
+-------------------------------------------
+"Video Game 7"
+by djgriffin
+
+Creative Commons (Attribution 3.0)
+December 27th 2012
+-------------------------------------------
+"Scary Demon Haunt"
+by Adam Webb
+
+Public Domain
+-------------------------------------------
+
